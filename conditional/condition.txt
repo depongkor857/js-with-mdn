@@ -1,0 +1,9 @@
+The pseudocode for if...else look like this:
+
+if(condition){
+    code to run if condition is true
+} else {
+    run some other code instead 
+}
+
+for reference: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
