@@ -6,4 +6,6 @@ if(condition){
     run some other code instead 
 }
 
+
+
 for reference: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
